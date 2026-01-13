@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ced0c3b70c3ecfa4d88d0684f49e37bf
+guid: 1748103828806da488cf838be4deee69
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -7,7 +7,7 @@ TextureImporter:
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
-    sRGBTexture: 1
+    sRGBTexture: 0
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -54,7 +54,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 1
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -130,5 +130,5 @@ AssetOrigin:
   productId: 298238
   packageName: Vegetation Stylized Kit
   packageVersion: 1.0
-  assetPath: Assets/Vegetation_Stylized_Pack_ByLuxArtStudios/Textures/T_Bush_Atlas/T_Plant_Atlas_D.png
+  assetPath: Assets/Vegetation_Stylized_Pack_ByLuxArtStudios/Textures/T_Bush_Atlas/T_Bush_Atlas_N.png
   uploadId: 701453
