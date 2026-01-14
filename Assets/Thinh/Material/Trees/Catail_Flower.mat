@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Flower
+  m_Name: Catail_Flower
   m_Shader: {fileID: -6465566751694194690, guid: 040ce3274adf0d243a7cbfa62f73ceb2, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -56,17 +56,18 @@ Material:
     m_Ints: []
     m_Floats:
     - _FresnelPower: 1.77
-    - _NoiseScale: 5
+    - _NoiseScale: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 0
     - _USEFRESNEL: 0
-    - _WindStrength: 0.3
+    - _WindStrength: 0.08
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 1, g: 0.71237, b: 0, a: 1}
+    - _EmissiveColor: {r: 0, g: 0, b: 0, a: 0}
     - _FresnelColor: {r: 0.39215687, g: 1, b: 0.12549016, a: 1}
-    - _Wind: {r: 0.1, g: 0.1, b: 0, a: 0}
-    - _WindAffectArea: {r: 0, g: 0.26, b: 0, a: 0}
+    - _Wind: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _WindAffectArea: {r: 0, g: 1, b: 0, a: 0}
     - _WindAffectionArea: {r: 0.3, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
